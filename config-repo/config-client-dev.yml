@@ -1,2 +1,4 @@
 info:
-  profile: dev bus
+  profile: dev
+  port: 8080
+  eurekaURL: http://10.0.254.182:8761/eureka/
