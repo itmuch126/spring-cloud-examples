@@ -1,4 +1,4 @@
 info:
-  profile: dev
+  profile: test
   port: 8080
   eurekaURL: http://test_group_server_06:8761/eureka/
