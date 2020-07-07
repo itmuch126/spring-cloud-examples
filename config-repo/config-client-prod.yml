@@ -1,2 +1,4 @@
 info:
   profile: prod
+  port: 6080
+  eurekaURL: http://172.16.21.32:6080/eureka/,http://172.16.21.33:6080/eureka/
